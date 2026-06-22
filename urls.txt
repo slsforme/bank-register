@@ -1,0 +1,2 @@
+про контекст - https://habr.com/ru/companies/nixys/articles/461723/
+горутины, мьютексы и т.д. - https://habr.com/ru/articles/933464/
